@@ -1,5 +1,3 @@
-## Imtiaz Shakil Siddique Resume
-
 ### Carrer Summary
 
 Creative, dedicated Java Developer with 8+ years of experience in technologies namely: Spring Framework, Angular 2+, J2SE/J2EE Enterprise Applications and Graph Technology. I’m able to work independently with little to no supervision as well as functioning as an excellent team player.
@@ -13,32 +11,48 @@ Creative, dedicated Java Developer with 8+ years of experience in technologies n
 - **Framework:** Spring, Angular 5/6, Tinkerpop, Apache Nutch, Apache Solr, Apache Hadoop
 - **Database:** MySQL, Cassandra, Redis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Work Experience
+[AtMetis](https://atmetis.nl/) - Senior Software Engineer    
+September 2017 – Present
 ```markdown
-Syntax highlighted code block
+- Leading the development of Risk Management & Valuation, Enterprise Application for our client Atmetis
+- Working with the latest Spring and Angular Technology to reduce development time and better maintenance
+- Implemented a highly efficient & robust backend Database (MySQL) with Java JPA and Hibernate for our client
+``` 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[IPvision Canada Inc](http://www.ipvision.ca/) - Senior Software Engineer, IPvision Big Data Team    
+January 2017 – May 2017     
+```markdown
+- Team Lead of [RingID](https://www.ringid.com/) Graph Database Research Team where we give data a new meaning!!
+- Convert Big Data into Graph and provide Graph Search, Graph Traversal, Recommendation service with Graph
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Chorki](https://chorki.com/) - Team Lead                                                                                               
+April 2015 – December 2016      
+```markdown
+- Designed Full Back-end Solution of Chorki’s Main Web Search Engine, Product Search & News Search
+- Increased Search Relevancy by more than 35% by developing state of the art Keyword Extraction algorithm.
+- Greatly improved search results by implementing Stemming, Tokenization, Filtering Algorithms.
+```
 
-### Jekyll Themes
+[Pipilika](http://www.pipilika.com/) - Software Engineer               
+August 2014 – January 2015    
+```markdown
+- Developed Extremely efficient, Memory Optimized Search Auto Completion Feature for instant searching.
+- Intelligent Product Parser for parsing data from any ecommerce site with very high efficiency and accuracy.
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imtiazShakil/imtiazShakil.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Education
+Shahjalal University of Science & Technology [sust](http://www.sust.edu/)     
+January 2010 – April 2014     
+B.Sc. in Computer Science Engineering.    
+G.P.A: 3.62(out of 4.0)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Rewards and Achievements    
+- World Finalist of [ACM ICPC 2014](https://icpc.baylor.edu/community/results-2014) hosted by Ural University, Russia (Shahjalal University).
+- Champion of [2013 ACM ICPC Dhaka Regional](https://icpc.baylor.edu/regionals/finder/dhaka-2013/standings) (SUST_Attoprottoyee).
+- Second Runner Up of [2014 ACM ICPC Dhaka Regional](https://icpc.baylor.edu/regionals/finder/dhaka-2014/standings) (SUST_Attoprottoyee v2.0).
+- Topcoder: Handle: [shakil_sust](http://community.topcoder.com/tc?module=MemberProfile&cr=22903783&tab=alg), Best Rank: 1281, 50+ SRM Competition, 3 Room Wins.
+- Codeforces: Handle: [shakil](http://codeforces.com/profile/shakil), Best Rank: 1776, 250+ Problems solved.
+- Achieved Scholarship for Excellent Academic Results in 2011 and 2012.
+- ACM Contest Problem Setter in [SUST Carnival 2015](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=13&page=show_contest&contest=360), [SUB IUPC 2016](http://web.archive.org/web/20160531132147/https:/algo.codemarshal.org/contests/sub-iupc-2016)
