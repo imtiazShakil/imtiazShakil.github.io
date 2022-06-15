@@ -1,3 +1,5 @@
+## Imtiaz Shakil Siddique
+
 ### Carrer Summary
 
 Creative, dedicated Java Developer with 8+ years of experience in technologies namely: Spring Framework, Angular 2+, J2SE/J2EE Enterprise Applications and Graph Technology. I’m able to work independently with little to no supervision as well as functioning as an excellent team player.
@@ -13,34 +15,30 @@ Creative, dedicated Java Developer with 8+ years of experience in technologies n
 
 ### Work Experience
 [AtMetis](https://atmetis.nl/) - Senior Software Engineer    
-September 2017 – Present
-```markdown
+September 2017 – Present      
 - Leading the development of Risk Management & Valuation, Enterprise Application for our client Atmetis
 - Working with the latest Spring and Angular Technology to reduce development time and better maintenance
 - Implemented a highly efficient & robust backend Database (MySQL) with Java JPA and Hibernate for our client
-``` 
+ 
 
 [IPvision Canada Inc](http://www.ipvision.ca/) - Senior Software Engineer, IPvision Big Data Team    
 January 2017 – May 2017     
-```markdown
 - Team Lead of [RingID](https://www.ringid.com/) Graph Database Research Team where we give data a new meaning!!
 - Convert Big Data into Graph and provide Graph Search, Graph Traversal, Recommendation service with Graph
-```
+
 
 [Chorki](https://chorki.com/) - Team Lead                                                                                               
 April 2015 – December 2016      
-```markdown
 - Designed Full Back-end Solution of Chorki’s Main Web Search Engine, Product Search & News Search
 - Increased Search Relevancy by more than 35% by developing state of the art Keyword Extraction algorithm.
 - Greatly improved search results by implementing Stemming, Tokenization, Filtering Algorithms.
-```
+
 
 [Pipilika](http://www.pipilika.com/) - Software Engineer               
 August 2014 – January 2015    
-```markdown
 - Developed Extremely efficient, Memory Optimized Search Auto Completion Feature for instant searching.
 - Intelligent Product Parser for parsing data from any ecommerce site with very high efficiency and accuracy.
-```
+
 
 ### Education
 Shahjalal University of Science & Technology [sust](http://www.sust.edu/)     
