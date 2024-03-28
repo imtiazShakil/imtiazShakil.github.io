@@ -2,7 +2,7 @@
 
 ### Carrer Summary
 
-Creative, dedicated Java Developer with 8+ years of experience in technologies namely: Spring Framework, Angular 2+, J2SE/J2EE Enterprise Applications and Graph Technology. I’m able to work independently with little to no supervision as well as functioning as an excellent team player.
+Creative, dedicated Java Developer with 10+ years of experience in technologies namely: Spring Framework, Angular 2+, J2SE/J2EE Enterprise Applications and Graph Technology. I’m able to work independently with little to no supervision as well as functioning as an excellent team player.
 
 ### Technical Skills
 
