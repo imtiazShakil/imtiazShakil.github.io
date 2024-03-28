@@ -1,3 +1,7 @@
 theme: jekyll-theme-midnight
 title: Imtiaz's Career
-description: Bookmark this to keep an eye on my project updates!
+description: >- # this means to ignore newlines until "next_var:"
+  Welcome to my portfolio! I'm a seasoned software engineer
+  with over a decade of experience in a diverse range of technologies, including Java, JavaScript, Python and C++, 
+  leveraging my extensive hands-on experience to deliver innovative solutions.
+  Explore my projects, contributions, and expertise in building robust and scalable applications.
