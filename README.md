@@ -1,7 +1,3 @@
----
-title: Imtiaz's Tech Journey
----
-
 ## Imtiaz Shakil Siddique
 
 ### Carrer Summary
