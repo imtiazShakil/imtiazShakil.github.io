@@ -1,5 +1,3 @@
-## Imtiaz Shakil Siddique
-
 ### Carrer Summary
 
 Experienced Java Developer with 10+ years in Spring Framework, Angular, Express, Flask and Graph Technology. Expertise in team leadership, managing 3-member teams for 8+ years. Proven ability to select optimal technologies for tasks, coordinate with teams, and solve problems efficiently. Ready to drive innovation and deliver success.
