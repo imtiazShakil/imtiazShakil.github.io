@@ -9,7 +9,7 @@ Experienced Java Developer with 10+ years in Spring Framework, Angular, Express,
 - Concrete Knowledge of Software Architecture, Class Design and Software documentation & maintenance
 - Proficient in Spring Boot Technology as backend and Angular or React platform as frontend.
 - Experienced in Database Design. Worked with various storage systems e.g MySQL, Cassandra, Redis
-- **Programming Languages:** Java, TypeScript, C++, Bash, HTML, Assembly and Matlab
+- **Programming Languages:** Java, TypeScript, C++, Python and Bash
 - **Framework:** Spring, Angular, Express, Flask, Tinkerpop, Apache Nutch, Apache Solr, Apache Hadoop
 - **Database:** MySQL, Cassandra, Redis
 
