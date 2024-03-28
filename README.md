@@ -2,21 +2,21 @@
 
 ### Carrer Summary
 
-Creative, dedicated Java Developer with 10+ years of experience in technologies namely: Spring Framework, Angular 2+, J2SE/J2EE Enterprise Applications and Graph Technology. I’m able to work independently with little to no supervision as well as functioning as an excellent team player.
+Experienced Java Developer with 10+ years in Spring Framework, Angular, Express, Flask and Graph Technology. Expertise in team leadership, managing 3-member teams for 8+ years. Proven ability to select optimal technologies for tasks, coordinate with teams, and solve problems efficiently. Ready to drive innovation and deliver success.
 
 ### Technical Skills
 
 - Concrete Knowledge of Software Architecture, Class Design and Software documentation & maintenance
-- Proficient in Spring Boot Technology as backend and Angular 2+ platform as frontend.
+- Proficient in Spring Boot Technology as backend and Angular or React platform as frontend.
 - Experienced in Database Design. Worked with various storage systems e.g MySQL, Cassandra, Redis
-- **Programming Languages:** Java 8+, TypeScript, C++, Bash, HTML, Assembly and Matlab
-- **Framework:** Spring, Angular 5/6, Tinkerpop, Apache Nutch, Apache Solr, Apache Hadoop
+- **Programming Languages:** Java, TypeScript, C++, Bash, HTML, Assembly and Matlab
+- **Framework:** Spring, Angular, Express, Flask, Tinkerpop, Apache Nutch, Apache Solr, Apache Hadoop
 - **Database:** MySQL, Cassandra, Redis
 
 ### Work Experience
-[AtMetis](https://atmetis.nl/) - Senior Software Engineer    
+[AtMetis](https://atmetis.nl/) - Team Lead    
 September 2017 – Present      
-- Leading the development of Risk Management & Valuation, Enterprise Application for our client Atmetis
+- Leading the development of multiple enterprise applications that provides Rebuilding Cost assesment, Risk Management & Valuation of infrastructures for Atmetis
 - Working with the latest Spring and Angular Technology to reduce development time and better maintenance
 - Implemented a highly efficient & robust backend Database (MySQL) with Java JPA and Hibernate for our client
  
